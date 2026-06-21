@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mining-hme-reliability/static/css/main.e6c13ad2.css",
-    "main.js": "/mining-hme-reliability/static/js/main.428c6a99.js",
+    "main.js": "/mining-hme-reliability/static/js/main.54bc5972.js",
     "static/js/453.2e730fe1.chunk.js": "/mining-hme-reliability/static/js/453.2e730fe1.chunk.js",
     "index.html": "/mining-hme-reliability/index.html",
     "main.e6c13ad2.css.map": "/mining-hme-reliability/static/css/main.e6c13ad2.css.map",
-    "main.428c6a99.js.map": "/mining-hme-reliability/static/js/main.428c6a99.js.map",
+    "main.54bc5972.js.map": "/mining-hme-reliability/static/js/main.54bc5972.js.map",
     "453.2e730fe1.chunk.js.map": "/mining-hme-reliability/static/js/453.2e730fe1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.428c6a99.js"
+    "static/js/main.54bc5972.js"
   ]
 }
